@@ -1,0 +1,26 @@
+bchlib==1.0.0
+certifi==2021.5.30
+cffi==1.15.1
+click==8.0.4
+colorama==0.4.5
+cryptography==40.0.2
+dataclasses==0.8
+Flask==2.0.3
+flask-core==2.9.0
+Flask-Cors==4.0.0
+greenlet==2.0.2
+importlib-metadata==4.8.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+numpy==1.19.5
+opencv-python @ file:///F:/%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6%E5%A4%B9/opencv_python-3.4.1.15-cp36-cp36m-win_amd64.whl
+Pillow==8.4.0
+psycopg2==2.9.6
+psycopg2-binary==2.9.6
+pycparser==2.21
+SQLAlchemy==1.4.50
+typing_extensions==4.1.1
+Werkzeug==2.0.3
+wincertstore==0.2
+zipp==3.6.0
